@@ -12,7 +12,7 @@ LedBlinkLib	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-init    KEYWORD2
+init	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
